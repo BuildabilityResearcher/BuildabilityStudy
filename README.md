@@ -1,7 +1,7 @@
 # Reproducing open-projects software builds experiment
 
 Reproduction package for the paper "Back and There Once Again: Revisiting the
-Compilation of Past Snapshots", presented to ICSE 2020 (still under review). This package contains:
+Compilation of Past Snapshots", presented to ESEC/FSE 2021 (still under review). This package contains:
 
 ```bash
 .
