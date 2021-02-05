@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002023.svg)](https://doi.org/10.5281/zenodo.4002023)
+
 # Reproducing open-projects software builds experiment
 
 Reproduction package for the paper "Back and There Once Again: Revisiting the
